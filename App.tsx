@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
-import Sidebar from "./components/Sidebar/Sidebar"; 
-import Header from './components/Header';
-import DashboardView from './components/DashboardView';
+import Sidebar from "./components/Sidebar/Sidebar";  // ← CORRETOimport DashboardView from './components/DashboardView';
 import ReviewsView from './components/ReviewsView';
 import PostsView from './components/PostsView';
 import GeoSEOView from './components/GeoSEOView';
